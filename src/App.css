@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+.new-post-box {
+  background-color: grey;
+  width: 50%;
+  height: 150px;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-left: 25%;
+  border-radius: 20px;
+}
+
+.new-post-input {
+  width: 50%;
+  padding: 12px 20px;
+  margin-top: 15px;
+}
+
+.display-blog-card {
+  background-color: grey;
+  width: 50%;
+  height: 150px;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-left: 25%;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+.site-title {
+  background-color: blue;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
